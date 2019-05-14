@@ -1,6 +1,7 @@
 # FreightHub Frontend Coding Challenge
-![](screenshots/detail.png)
-![](screenshots/list.png)
+<img src="screenshots/detail.png" width="300px" />
+<img src="screenshots/list.png" width="300px" />
+
 This is a frontend part of shipping management application.
 
 ## Table of contents
